@@ -1,8 +1,49 @@
 # Python Developer Roadmap
 - [x] [Learn the basics](https://github.com/k3ybladewielder/python-developer/blob/main/basics/basics.ipynb) 
-- [x] [Datastructures and algorithms](https://github.com/k3ybladewielder/python-developer/blob/main/datastructures_algorithms/algoritmos.ipynb) 
-- [ ] Advenced topics 
+  - [x] Basic Syntax
+  - [x] Variables and Data Types
+  - [x] Conditionals
+  - [x] Type Casting and Exceptions
+  - [x] Funcitons, Builtin Functions
+  - [x] Lists, Tuples, Sets, Dictionaries
+- [x] [Datastructures and algorithms](https://github.com/k3ybladewielder/python-developer/blob/main/datastructures_algorithms/algoritmos.ipynb)
+  - [x] Arrays and Linked Lists
+  - [x] Heaps, Stacks and Queues
+  - [x] Hash Tables
+  - [ ] Binary Search Trees 
+  - [ ] Recursion
+  - [ ]  Sorting Algorithms
+- [ ] Advenced topics
+  - [ ] Iterators
+  - [ ] RegEx
+  - [ ] Decoratores
+  - [ ] Lambdas
+  - [ ] Classes (OOP)
+  - [ ] Inheritance (OOP)
+  - [ ] Methods, Dunder (OOP)
+  - [ ] Builtin (Modules)
+  - [ ] Custom (Modules)
+  - [ ] PyPi
+  - [ ] Pip
+  - [ ] Conda
+  - [ ] List Comprehensions
+  - [ ] Generator Expressions
+  - [ ] Paradigms
 - [ ] Learn a framework
+  - [ ] Synchronous
+  - [ ] Django
+  - [ ] Flask
+  - [ ] Pyramid
+  - [ ] Asynchronous
+  - [ ] FastAPI
+  - [ ] gevent
+  - [ ] aiohttp
+  - [ ] Tornado
+  - [ ] Sanic
 - [ ] Testing your apps
+  - [ ] doctest
+  - [ ] nose
+  - [ ] pytest
+  - [ ] unittest/pyUnit
 
 [Full roadmap](https://roadmap.sh/python)
