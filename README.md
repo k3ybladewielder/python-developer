@@ -10,8 +10,8 @@
   - [x] Arrays and Linked Lists
   - [x] Heaps, Stacks and Queues
   - [x] Hash Tables
-  - [ ] Binary Search Trees 
-  - [ ] Recursion
+  - [x] Binary Search Trees 
+  - [x] Recursion
   - [ ]  Sorting Algorithms
 - [ ] Advenced topics
   - [ ] Iterators
