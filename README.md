@@ -12,11 +12,11 @@
   - [x] Hash Tables
   - [x] Binary Search Trees 
   - [x] Recursion
-  - [ ]  Sorting Algorithms
-- [ ] Advenced topics
-  - [ ] Iterators
-  - [ ] RegEx
-  - [ ] Decoratores
+  - [x]  Sorting Algorithms
+- [x] Advenced topics
+  - [x] Iterators
+  - [x] RegEx
+  - [x] Decoratores
   - [ ] Lambdas
   - [ ] Classes (OOP)
   - [ ] Inheritance (OOP)
