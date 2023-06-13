@@ -18,14 +18,14 @@
   - [x] RegEx
   - [x] Decoratores
   - [x] Lambdas
-  - [ ] Classes (OOP)
-  - [ ] Inheritance (OOP)
-  - [ ] Methods, Dunder (OOP)
+  - [x] Classes (OOP)
+  - [x] Inheritance (OOP)
+  - [x] Methods, Dunder (OOP)
   - [ ] Builtin (Modules)
   - [ ] Custom (Modules)
-  - [ ] PyPi
-  - [ ] Pip
-  - [ ] Conda
+  - [ ] PyPi (Package Managers)
+  - [ ] Pip (Package Managers)
+  - [ ] Conda (Package Managers)
   - [ ] List Comprehensions
   - [ ] Generator Expressions
   - [ ] Paradigms
