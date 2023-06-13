@@ -13,11 +13,11 @@
   - [x] Binary Search Trees 
   - [x] Recursion
   - [x]  Sorting Algorithms
-- [x] Advenced topics
+- [x] [Advenced topics](https://github.com/k3ybladewielder/python-developer/blob/main/advanced_topics/advanced_topics.ipynb)
   - [x] Iterators
   - [x] RegEx
   - [x] Decoratores
-  - [ ] Lambdas
+  - [x] Lambdas
   - [ ] Classes (OOP)
   - [ ] Inheritance (OOP)
   - [ ] Methods, Dunder (OOP)
