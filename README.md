@@ -23,13 +23,13 @@
   - [x] Methods, Dunder (OOP)
   - [x] Builtin (Modules)
   - [x] Custom (Modules)
-  - [ ] PyPi (Package Managers)
-  - [ ] Pip (Package Managers)
-  - [ ] Conda (Package Managers)
-  - [ ] List Comprehensions
-  - [ ] Generator Expressions
-  - [ ] Paradigms
-- [ ] Learn a framework
+  - [x] PyPi (Package Managers)
+  - [x] Pip (Package Managers)
+  - [x] Conda (Package Managers)
+  - [x] List Comprehensions
+  - [x] Generator Expressions
+  - [x] Paradigms
+- [ ] [Learn a framework](https://github.com/k3ybladewielder/python-developer/blob/main/frameworks/frameworks.ipynb)
   - [ ] Synchronous
   - [ ] Django
   - [ ] Flask
@@ -40,7 +40,7 @@
   - [ ] aiohttp
   - [ ] Tornado
   - [ ] Sanic
-- [ ] Testing your apps
+- [ ] [Testing your apps](https://github.com/k3ybladewielder/python-developer/blob/main/testing/testing.ipynb)
   - [ ] doctest
   - [ ] nose
   - [ ] pytest
