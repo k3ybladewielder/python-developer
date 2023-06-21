@@ -31,11 +31,11 @@
   - [x] Paradigms
 - [x] [Learn a framework](https://github.com/k3ybladewielder/python-developer/blob/main/frameworks/frameworks.ipynb)
   - [x] Synchronous
-  - [ ] Django
-  - [ ] Flask
-  - [ ] Pyramid
-  - [ ] Asynchronous
-  - [ ] FastAPI
+  - [x] Django
+  - [x] Flask
+  - [x] Pyramid
+  - [x] Asynchronous
+  - [x] FastAPI
   - [ ] gevent
   - [ ] aiohttp
   - [ ] Tornado
