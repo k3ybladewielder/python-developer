@@ -36,14 +36,14 @@
   - [x] Pyramid
   - [x] Asynchronous
   - [x] FastAPI
-  - [ ] gevent
-  - [ ] aiohttp
-  - [ ] Tornado
-  - [ ] Sanic
-- [ ] [Testing your apps](https://github.com/k3ybladewielder/python-developer/blob/main/testing/testing.ipynb)
-  - [ ] doctest
-  - [ ] nose
-  - [ ] pytest
-  - [ ] unittest/pyUnit
+  - [x] gevent
+  - [x] aiohttp
+  - [x] Tornado
+  - [x] Sanic
+- [x] [Testing your apps](https://github.com/k3ybladewielder/python-developer/blob/main/testing/testing.ipynb)
+  - [x] doctest
+  - [x] nose
+  - [x] pytest
+  - [x] unittest/pyUnit
 
 [Full roadmap](https://roadmap.sh/python)
